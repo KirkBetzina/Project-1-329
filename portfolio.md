@@ -11,6 +11,7 @@ The tools I will be using to complete my website are:
 - CSS
 - Flexbox
 - Grid
+- shoelace
 - Javascript
 - jQuery
 - Ajax
@@ -18,7 +19,15 @@ The tools I will be using to complete my website are:
 - Google 
 - Youtube
 
-### website 
+### Web Components 
+
+- Scroll direction icon
+- I would love an impact feature on my cards
+- icon carousel
+
+### Website Features
+
+- A guest log book that displays the company icon that visited my site and engages. Then catpures their contact data that way I can reach out in the future. 
 
 
 
