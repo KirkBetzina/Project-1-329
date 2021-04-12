@@ -19,6 +19,24 @@ The tools I will be using to complete my website are:
 - Google 
 - Youtube
 
+MVP
+| Component | Priority | Estimated Time | Actual Time |
+| --- | :---: |  :---: | :---: | 
+| Hamburger | H | 3hr | hr |
+| Project Previews | H | 5hr | hr |
+| Regular Nav | H | 3hr | hr |  
+| Adding Form | H | 3hr|  hr | 
+| Other sections and flex| M | 6hr | hr|
+| Working with API | H | 5hrs|  hr | 
+| Responsive | H | 6hr | hr | hr |
+| Social Media Icons | L | 2hr |  hr |
+| Total | H | 33hrs| hrs |
+
+
+
+
+
+
 ### Web Components 
 
 - Scroll direction icon

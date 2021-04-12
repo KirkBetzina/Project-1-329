@@ -89,15 +89,15 @@ Time frames are also key in the development cycle.  You have limited time to cod
 #### MVP
 | Component | Priority | Estimated Time | Actual Time |
 | --- | :---: |  :---: | :---: | 
-| Hamburger | H | 1hr | hr |
-| Project Previews | H | 3hr | hr |
-| Regular Nav | H | 1hr | hr |  
-| Adding Form | H | 1.5hr|  hr | 
-| Other sections and flex| M | 3hr | hr|
-| Working with API | H | 3hrs|  hr | 
-| Responsive | H | 3hr | hr | hr |
-| Social Media Icons | L | 1hr |  hr |
-| Total | H | 15.5hrs| hrs |
+| Hamburger | H | 3hr | hr |
+| Project Previews | H | 5hr | hr |
+| Regular Nav | H | 3hr | hr |  
+| Adding Form | H | 3hr|  hr | 
+| Other sections and flex| M | 6hr | hr|
+| Working with API | H | 5hrs|  hr | 
+| Responsive | H | 6hr | hr | hr |
+| Social Media Icons | L | 2hr |  hr |
+| Total | H | 33hrs| hrs |
 
 #### PostMVP
 | Component | Priority | Estimated Time | Actual Time |
@@ -112,6 +112,11 @@ Time frames are also key in the development cycle.  You have limited time to cod
 
 ## Additional Libraries
  Use this section to list all supporting libraries and thier role in the project. 
+
+
+ Shoelace - reactive components
+ behance - for themed jumbotron image
+ bootstrap4 - compnents for layouts
 
 ## Code Snippet
 
