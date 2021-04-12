@@ -68,6 +68,19 @@
     color: white;
     /* border-radius: 50%; */
   }
+  .card-overview {
+    max-width: 300px;
+  }
+
+  .card-overview small {
+    color: var(--sl-color-gray-500);
+  }
+
+  .card-overview [slot="footer"] {
+    display: flex; 
+    justify-content: space-between; 
+    align-items: center;
+  }
 
   #CTA {
       borer: 1px black;
