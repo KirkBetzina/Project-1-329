@@ -1,8 +1,8 @@
 # Project Overview
 
-**PROJECT NAME:** dfadfadfsdfadf
+**PROJECT NAME:** Kirk's Portfolio
 
-**PROJECT AUTHOR:** lkjlkjljlkadfsd
+**PROJECT AUTHOR:** Kirk Betzina
 
 ## Project Schedule
 
@@ -12,8 +12,8 @@ You are **responsible** for scheduling time with your squad to seek approval for
 
 |  Day | Deliverable | Status
 |---|---| ---|
-|Day 1| Project Description | Incomplete
-|Day 1| Wireframes / Priority Matrix / Timeline | Incomplete
+|Day 1| Project Description | complete
+|Day 1| Wireframes / Priority Matrix / Timeline | complete
 |Day 3| Core Application Structure (HTML, CSS, etc.) | Incomplete
 |Day 4| MVP & Bug Fixes | Incomplete
 |Day 5| Final Touches | Incomplete
@@ -44,18 +44,19 @@ Link To Site  | One Thing I'd Like To Incorporate |
 
 Upload images of wireframe to cloudinary and add the link here with a description of the specific wireframe. Do not include the actual image and have it render on the page.  
 
-- [Mobile](https://i.imgur.com/P3iBEZf.jpg)
-- [Desktop](https://i.imgur.com/xpOWo0E.jpg)
+- [Mobile/tablet](https://drive.google.com/file/d/13wexln5XM8qfp96J4fWkadvmaYh8wLVO/view?usp=sharing)
+- [Desktop](- [Figma](https://www.figma.com/)
+)
 
 Wireframing Resources:
 
-- [Mockflow](https://mockflow.com/app/#Wireframe)
+- [hand drawing](https://drive.google.com/file/d/13wexln5XM8qfp96J4fWkadvmaYh8wLVO/view?usp=sharing)
 - [Figma](https://www.figma.com/)
 
 
 ## Time/Priority Matrix 
 
-[Link](https://res.cloudinary.com/jkeohan/image/upload/a_270/v1591621734/project1_matrix_ocy5gc_h1kg0m.jpg)
+[Link](https://docs.google.com/spreadsheets/d/1jmmYMIqvhyTV5XdmbM7kj_tdwfFZgThPs32yI3efc1o/edit?usp=sharing)
 
 Include a full list of features that have been prioritized based on the `Time and Priority` Matix.  This involves drawing a a square.  In the middle of the square, on the x axis draw a line.  The most left part of the line should start with 0hrs and the end of the line should include 2hrs.  This line will be used to estimate how much time any one feature will take to complete. 
 
