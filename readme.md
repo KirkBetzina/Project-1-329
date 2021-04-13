@@ -90,15 +90,15 @@ Time frames are also key in the development cycle.  You have limited time to cod
 #### MVP
 | Component | Priority | Estimated Time | Actual Time |
 | --- | :---: |  :---: | :---: | 
-| Hamburger | H | 3hr | hr |
-| Project Previews | H | 5hr | hr |
-| Regular Nav | H | 3hr | hr |  
-| Adding Form | H | 3hr|  hr | 
-| Other sections and flex| M | 6hr | hr|
-| Working with API | H | 5hrs|  hr | 
-| Responsive | H | 6hr | hr | hr |
-| Social Media Icons | L | 2hr |  hr |
-| Total | H | 33hrs| hrs |
+| Hamburger | H | 3hr | 1hr |
+| Project Previews | H | 5hr | 1hr |
+| Regular Nav | H | 3hr | 1hr |  
+| Adding Form | H | 3hr|  1hr | 
+| Other sections and flex| M | 6hr | 1hr|
+| Working with API | H | 5hrs|  1hr | 
+| Responsive | H | 6hr | hr | 1hr |
+| Social Media Icons | L | 2hr |  1hr |
+| Total | H | 33hrs| 8hrs |
 
 #### PostMVP
 | Component | Priority | Estimated Time | Actual Time |
