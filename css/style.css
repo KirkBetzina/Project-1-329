@@ -24,8 +24,9 @@
     background: olivedrab;
     display: block;
     position: absolute;
-    right: 0;
+    right:0;
     top: 0;
+    bottom:0;
   }
   
   /* Add a grey background color on mouse-over */
@@ -68,6 +69,18 @@
     color: white;
     /* border-radius: 50%; */
   }
+
+  /* Twitch */
+  .fa-twitch{
+    background: #9147ff;
+    color:white;
+  }
+
+  /* Instagram */
+  .fa-instagram{
+    background:#DD2A7B;
+    color: white;
+  }
   .card-overview {
     max-width: 300px;
   }
@@ -83,6 +96,6 @@
   }
 
   #CTA {
-      borer: 1px black;
+      border: 1px black;
   }
   
