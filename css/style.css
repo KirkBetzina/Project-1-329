@@ -42,7 +42,7 @@
   }
 
   .fa {
-    padding: 20px;
+    /* padding: 20px; */
     font-size: 30px;
     width: 50px;
     text-align: center;
@@ -82,11 +82,13 @@
     color: white;
   }
   .card-overview {
-    max-width: 300px;
+    max-width: 725px;
+    display: flex;
+    
   }
 
   .card-overview small {
-    color: var(--sl-color-gray-500);
+    color: gray;
   }
 
   .card-overview [slot="footer"] {
@@ -98,4 +100,10 @@
   #CTA {
       border: 1px black;
   }
+
+.body {
+  display: inline-block;
+  max-width: fit-content;
+  
+}
   

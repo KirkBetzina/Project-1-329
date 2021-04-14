@@ -94,11 +94,11 @@ Time frames are also key in the development cycle.  You have limited time to cod
 | Project Previews | H | 5hr | 1hr |
 | Regular Nav | H | 3hr | 1hr |  
 | Adding Form | H | 3hr|  1hr | 
-| Other sections and flex| M | 6hr | 1hr|
+| Other sections and flex| M | 6hr | 2hr|
 | Working with API | H | 5hrs|  1hr | 
-| Responsive | H | 6hr | hr | 1hr |
+| Responsive | H | 6hr | hr | 2hr |
 | Social Media Icons | L | 2hr |  1hr |
-| Total | H | 33hrs| 8hrs |
+| Total | H | 33hrs| 10hrs |
 
 #### PostMVP
 | Component | Priority | Estimated Time | Actual Time |
@@ -130,8 +130,8 @@ function reverse(string) {
 ```
 
 ## Issues and Resolutions
- Use this section to list of all major issues encountered and their resolution.
+ running into an issue where my mobile desing is locking to the left hand side and stuck at about half width. 
 
 #### SAMPLE.....
-**ERROR**: app.js:34 Uncaught SyntaxError: Unexpected identifier                                
-**RESOLUTION**: Missing comma after first object in sources {} object
+**ERROR**:                               
+**RESOLUTION**: 
