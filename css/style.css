@@ -101,7 +101,7 @@
       border: 1px black;
   }
 
-.body {
+#body {
   display: inline-block;
   max-width: fit-content;
   
