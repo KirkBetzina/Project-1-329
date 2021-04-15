@@ -30,6 +30,7 @@ $.ajax('https://spreadsheets.google.com/feeds/list/1gm0-doCsKu-xwV47uUdRMPSOmVrM
     $(':button1').text('Startup Matchmaker');{
     $('#card1').on('click', () => {
         window.location.href = 'https://git.generalassemb.ly/freakiestkirk/W01D02-Hw';  
+        return false;
     })
        
     }
@@ -40,7 +41,8 @@ $.ajax('https://spreadsheets.google.com/feeds/list/1gm0-doCsKu-xwV47uUdRMPSOmVrM
     $(':button2').text('code breakdowns');{
     window.location.href = 'https://git.generalassemb.ly/freakiestkirk/W1D05-Homework';
     $('#card2').on('click', () =>{
-        window.location.href = 'https://git.generalassemb.ly/freakiestkirk/W1D05-Homework';   
+        window.location.href = 'https://git.generalassemb.ly/freakiestkirk/W1D05-Homework';
+        return false; 
     })
     
     }
@@ -49,7 +51,8 @@ $.ajax('https://spreadsheets.google.com/feeds/list/1gm0-doCsKu-xwV47uUdRMPSOmVrM
     $card3.appendTo('#cards')
     $(':button3').text('LOTR');{
     $('#card3').on('click', () =>{
-        window.location.href= 'https://git.generalassemb.ly/freakiestkirk/jQuery_LOTR';  
+        window.location.href= 'https://git.generalassemb.ly/freakiestkirk/jQuery_LOTR';
+        return false;
     })
       
    }
