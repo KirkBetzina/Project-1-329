@@ -100,7 +100,17 @@
   } */
 
   #CTA {
-      border: 1px black;
+    border: 1px solid red;
+    justify-content: center;
+    color: white;
+    
+  }
+  #social {
+    border:1px solid white;
+    justify-content: center;
+    padding-left: 15%;
+    padding-top: 20%;
+    display: inline-flex;
   }
 
 #body {
@@ -121,7 +131,9 @@
 }
 
 @media only screen and (max-width: 767px){
-	
+	#social {
+    padding-left: ;
+  }
 }
   
 
