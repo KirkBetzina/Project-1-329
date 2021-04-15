@@ -128,15 +128,25 @@
 #greeting {
   color: whitesmoke;
   background-color:rgba(255,255,255,0);
+  display: grid;
+  grid-column: auto;
+  justify-content: center;
+  padding-top: 0%;
+}
+
+#cards {
+  color: white;
+  border:1px solid green;
   display: flex;
   justify-content: center;
+  justify-content: space-evenly;
+  padding-left: 20%;
+  
+
 }
 
 @media only screen and (max-width: 767px){
-	#social {
-    ;
-  }
-}
+	#social {}
   
 
 @media only screen and (max-width: 1023px){
