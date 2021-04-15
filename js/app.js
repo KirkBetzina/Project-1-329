@@ -25,11 +25,20 @@ $.ajax('https://spreadsheets.google.com/feeds/list/1gm0-doCsKu-xwV47uUdRMPSOmVrM
     ////////////////////////////////////
     // jQuery to render your projects
     ///////////////////////////////////
-    const $section = $('<section>')
-    $section.attr('id', 'cards')
-    $('section').appendTo($('body'))
-    const $div = $('<div>').attr('id', 'card')
-    $div.appendTo($section)
+    const $card1 = $('<card1>').text('startup-matchmaker')
+    URL ='https://git.generalassemb.ly/freakiestkirk/W01D02-Hw.git'
+    $card1.appendTo("#cards")
+    
+    const $card2 = $('<card2>').text(HW)
+    URL = 'https://git.generalassemb.ly/freakiestkirk/W1D05-Homework.git'
+    $card2.appendTo('#cards')
+       
+    const $card3 = $('<card3>').text(LOTR)
+    URL = 'https://git.generalassemb.ly/freakiestkirk/jQuery_LOTR.git' 
+    $card3.appendTo('#cards')
+
+    
+
 
 
 
