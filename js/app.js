@@ -25,37 +25,42 @@ $.ajax('https://spreadsheets.google.com/feeds/list/1gm0-doCsKu-xwV47uUdRMPSOmVrM
     ////////////////////////////////////
     // jQuery to render your projects
     ///////////////////////////////////
+    
     const $card1 = $('<card1>')
+
     $card1.appendTo("#cards")
-    $(':button1').text('Startup Matchmaker');{
-    $('#card1').on('click', () => {
+    $('.card1').text('Startup Matchmaker')
+    $('.card1').on('click', (event) => {
+        event.preventDefault()
         window.location.href = 'https://git.generalassemb.ly/freakiestkirk/W01D02-Hw';  
         return false;
+        console.log('click')
     })
        
-    }
+    
     
     
     const $card2 = $('<card2>')
     $card2.appendTo('#cards')    
-    $(':button2').text('code breakdowns');{
-    window.location.href = 'https://git.generalassemb.ly/freakiestkirk/W1D05-Homework';
-    $('#card2').on('click', () =>{
+    $('.card2').text('code breakdowns')
+    $('.card2').on('click', (event) =>{
+        event.preventDefault()
         window.location.href = 'https://git.generalassemb.ly/freakiestkirk/W1D05-Homework';
         return false; 
     })
     
-    }
+    
 
     const $card3 = $('<card3>')
     $card3.appendTo('#cards')
-    $(':button3').text('LOTR');{
-    $('#card3').on('click', () =>{
+    $('.card3').text('LOTR')
+    $('.card3').on('click', (event) =>{
+        event.preventDefault()
         window.location.href= 'https://git.generalassemb.ly/freakiestkirk/jQuery_LOTR';
         return false;
     })
       
-   }
+   
 
 
     
