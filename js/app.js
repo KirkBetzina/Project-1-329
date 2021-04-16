@@ -41,35 +41,35 @@ $.ajax('https://spreadsheets.google.com/feeds/list/1gm0-doCsKu-xwV47uUdRMPSOmVrM
         cards.append(card)
     })
     
-    // const $card1 = $('<card1>')
+    const $card1 = $('<card1>')
 
-    // $card1.appendTo("#cards")
-    // $('.card1').text('Startup Matchmaker')
-    // $('.card1').on('click', (event) => {
-    //     event.preventDefault()
-    //     window.location.href = 'https://git.generalassemb.ly/freakiestkirk/W01D02-Hw';  
-    // })
+    $card1.appendTo("#cards")
+    $('.card1').text('Startup Matchmaker')
+    $('.card1').on('click', (event) => {
+        event.preventDefault()
+        window.location.href = 'https://git.generalassemb.ly/freakiestkirk/W01D02-Hw';  
+    })
        
     
     
     
-    // const $card2 = $('<card2>')
-    // $card2.appendTo('#cards')    
-    // $('.card2').text('code breakdowns')
-    // $('.card2').on('click', (event) =>{
-    //     event.preventDefault()
-    //     window.location.href = 'https://git.generalassemb.ly/freakiestkirk/W1D05-Homework';    
-    // })
+    const $card2 = $('<card2>')
+    $card2.appendTo('#cards')    
+    $('.card2').text('code breakdowns')
+    $('.card2').on('click', (event) =>{
+        event.preventDefault()
+        window.location.href = 'https://git.generalassemb.ly/freakiestkirk/W1D05-Homework';    
+    })
     
     
 
-    // const $card3 = $('<card3>')
-    // $card3.appendTo('#cards')
-    // $('.card3').text('LOTR')
-    // $('.card3').on('click', (event) =>{
-    //     event.preventDefault()
-    //     window.location.href= 'https://git.generalassemb.ly/freakiestkirk/jQuery_LOTR';    
-    // })
+    const $card3 = $('<card3>')
+    $card3.appendTo('#cards')
+    $('.card3').text('LOTR')
+    $('.card3').on('click', (event) =>{
+        event.preventDefault()
+        window.location.href= 'https://git.generalassemb.ly/freakiestkirk/jQuery_LOTR';    
+    })
       
    const icon =document.getElementById("icon");
    const navUL = document.getElementById('icon');

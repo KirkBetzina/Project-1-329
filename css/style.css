@@ -81,28 +81,12 @@
     background:#DD2A7B;
     color: white;
   }
-  /* .card-overview {
-    max-width: 725px;
-    display: flex;
-    color: white;
-    /* danger background is currently white */
-    
-  /* } */ 
-/* 
-  .card-overview small {
-    color: gray;
-  } */
 
-  /* .card-overview [slot="footer"] {
-    display: flex; 
-    justify-content: space-between; 
-    align-items: center;
-  } */
 
   #CTA {
     /* border: 1px solid red; */
     width: 100%;
-    padding:10%;
+    /* padding:10%; */
     color: white;
     
   }
@@ -111,7 +95,7 @@
     justify-content: center;
     width: 100%;
     /* padding-top: 20%; */
-    display: inline-flex;
+    display:flex;
 
   }
 
@@ -120,7 +104,7 @@
   max-width: fit-content;
   background-image: url('https://i0.hippopx.com/photos/572/305/168/ash-blaze-bonfire-burn-preview.jpg');
   background-repeat: no-repeat;
-  background-size: auto;
+  background-size: 100%;
   /* background-position: 0 -1000px; */
   /* background-color: rgba(255,255,255,.5); */
 }
@@ -129,16 +113,20 @@
   color: whitesmoke;
   background-color:rgba(255,255,255,0);
   display: grid;
-  grid-column: auto;
   justify-content: center;
+  align-content: center;
   padding-top: 0%;
 }
 
  #cards {
-  max-width:;
+  max-width:auto;
+  height: auto;
   display:flex;
-  flex: wrap;
+  background-color: rgba(255,255,255,0);
+  
+  
  } 
+ 
  
 
 
@@ -146,13 +134,19 @@
 #body {
   background-image: 100%;
 }
-
+.hamburger{
+  display: none;
+}
 }
   
 
 @media only screen and (max-width: 1023px){
   #body {
     background-image: 100%;
+  }
+  .hamburger {
+    display:none;
+  }
   }
 }
 
