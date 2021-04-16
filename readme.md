@@ -14,8 +14,8 @@ You are **responsible** for scheduling time with your squad to seek approval for
 |---|---| ---|
 |Day 1| Project Description | complete
 |Day 1| Wireframes / Priority Matrix / Timeline | complete
-|Day 3| Core Application Structure (HTML, CSS, etc.) | Incomplete
-|Day 4| MVP & Bug Fixes | Incomplete
+|Day 3| Core Application Structure (HTML, CSS, etc.) | complete
+|Day 4| MVP & Bug Fixes | incomplete
 |Day 5| Final Touches | Incomplete
 |Day 6| Present | Incomplete
 

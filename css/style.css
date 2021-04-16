@@ -121,7 +121,7 @@
   background-image: url('https://i0.hippopx.com/photos/572/305/168/ash-blaze-bonfire-burn-preview.jpg');
   background-repeat: no-repeat;
   background-size: 100%;
-  background-position: 0 -1000px;
+  /* background-position: 0 -1000px; */
   /* background-color: rgba(255,255,255,.5); */
 }
 
@@ -142,17 +142,21 @@
   justify-content: center;
   justify-content: space-evenly;
   padding-left: ;
-  display:none;
+  
   
   
 }
 
 
 @media only screen and (max-width: 767px){
-
+.fa {
+  display: none;
+}
 }
   
 
 @media only screen and (max-width: 1023px){
-  
+ .fa {
+   display: none;
+ } 
 }
