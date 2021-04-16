@@ -56,7 +56,12 @@ $.ajax('https://spreadsheets.google.com/feeds/list/1gm0-doCsKu-xwV47uUdRMPSOmVrM
         window.location.href= 'https://git.generalassemb.ly/freakiestkirk/jQuery_LOTR';    
     })
       
-   
+   const icon =document.getElementById("icon");
+   const navUL = document.getElementById('icon');
+
+   icon.addEventListener('click', () => {
+       navUL.classList.toggle('show')
+   })
 
 
     

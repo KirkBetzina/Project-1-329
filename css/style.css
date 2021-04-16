@@ -103,7 +103,7 @@
     /* border: 1px solid red; */
     width: 100%;
     padding:10%;
-    /* color: white; */
+    color: white;
     
   }
   #social {
@@ -149,14 +149,16 @@
 
 
 @media only screen and (max-width: 767px){
-.fa {
+.nav-ul {
   display: none;
-}
+  }
+
 }
   
 
 @media only screen and (max-width: 1023px){
- .fa {
-   display: none;
- } 
+  .nav-ul {
+    display:none;
+
+  }
 }
