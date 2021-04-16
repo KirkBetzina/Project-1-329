@@ -134,31 +134,25 @@
   padding-top: 0%;
 }
 
-#cards {
-  /* color: white; */
-  background-color:rgba(255,255,255,0);
-  /* border:1px solid green; */
-  display: flex;
-  justify-content: center;
-  justify-content: space-evenly;
+ #cards {
+  max-width: auto;
+  display:flex;
+  flex: wrap;
+ } 
  
-}
-#cards :hover{
-  color: white;
-}
 
 
 @media only screen and (max-width: 767px){
-.nav-ul {
+/* .nav-ul {
   display: none;
-  }
+  } */
 
 }
   
 
 @media only screen and (max-width: 1023px){
-  .nav-ul {
-    display:none;
+  /* .nav-ul {
+    display:none; */
 
   }
 }
